@@ -1,7 +1,7 @@
-# Hello, I'm Aymene Elhabiri
+# 💫 Hello, I'm Aymene Elhabiri 👋
 
 ## 💫 About Me
-I’m a second-year AI student at ENSIA. Currently, I'm working on a startup called Cest-Promo. 
+I’m a second-year AI student at ENSIA 🎓. Currently, I'm working on a startup called Cest Promo 🚀.
 <br>
 
 
